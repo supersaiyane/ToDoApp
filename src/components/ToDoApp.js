@@ -68,7 +68,7 @@ export default class ToDoApp extends React.Component{
   }
 
   render() {
-    const subtitle = 'Schedule your day!';
+    const subtitle = 'Schedule your day! Ahhhhaaa!!';
 
     return (
       <div>
